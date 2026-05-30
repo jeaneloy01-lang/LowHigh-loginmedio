@@ -579,8 +579,3 @@ function carregarScriptMedium(duracaoDaKey)
         return OldIndex(self, Index)
     end)
 end
-
-    
-    
-
-end
