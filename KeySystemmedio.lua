@@ -116,7 +116,6 @@ function carregarScriptMedium(duracaoDaKey)
 -- ==============================================================================
 --         SCRIPT MÉDIO (LEVEL 2) - AIMBOT E ESP OTIMIZADO
 -- ==============================================================================
-function carregarScriptMedium(duracaoDaKey)
     local Players = game:GetService("Players")
     local RunService = game:GetService("RunService")
     local UserInputService = game:GetService("UserInputService")
